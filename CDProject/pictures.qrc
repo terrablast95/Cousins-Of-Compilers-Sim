@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>loaderdiag.png</file>
+    <file>loaddiag.png</file>
+    <file>linkerdiag.png</file>
+    <file>linkerdiag.png</file>
+    <file>asblrdiag.png</file>
+    <file>compdiag.png</file>
+    <file>langdiag1.png</file>
+    <file>langdiag2.png</file>
+    <file>macrodiag.png</file>
+    <file>prepdiag.png</file>
+  </qresource>
+</RCC>
